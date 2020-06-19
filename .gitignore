@@ -1,8 +1,10 @@
 /target
 /target/
+/number_guessing_game.iml
 !/number_guessing_game.iml
-!/.idea/*
-!/.idea
+/.idea/*
+/.idea/
+/.idea
 ### Eclipse template
 .metadata
 bin/
